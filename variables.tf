@@ -50,6 +50,6 @@ variable "image_ub" {
 }
 
 variable "flavor_aio" {
-    default = "ha_localdisk.4c.16r.60h"
+    default = "ha_localdisk.2c.4r.60h"
 }
 
